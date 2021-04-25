@@ -1,4 +1,4 @@
-# RPG_Git_Test
+# RPG_Unity_Arman
 Here a location for RPG game and few screenshots of loacation.
 
 Alpha V0.1:
