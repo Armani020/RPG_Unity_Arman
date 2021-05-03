@@ -8,6 +8,6 @@ public class HouseDoor1 : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene("_scene/BakerHouseInside");
+            SceneManager.LoadScene("_scene/BakerHouseInside");
     }
 }
