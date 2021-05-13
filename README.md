@@ -8,3 +8,6 @@ Alpha V0.2:
 - The mechanics of transition between locations (scenes) have been implemented.
 - Added a new object to the global map (Wooden House).
 - A test character has been created that moves around the map.
+
+Alpha V0.3:
+- Added an unfinished version of the dungeon location.
