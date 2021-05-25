@@ -11,3 +11,11 @@ Alpha V0.2:
 
 Alpha V0.3:
 - Added an unfinished version of the dungeon location.
+
+Teammates:
+
+Assylkhan
+https://github.com/RoseImai/RPG_Unity_Assylkhan.git
+
+Aleksey
+https://github.com/ZeroZAlex27/Unity3DRPG
